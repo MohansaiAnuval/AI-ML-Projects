@@ -1,0 +1,13 @@
+Date,Product Name,Product URL,Brand,Sale Price,Mrp,Discount Percentage,Number Of Ratings,Number Of Reviews,Upc,Star Rating,Ram,Sales
+2023-01-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,150,30,123456789012,4.5,12GB,5000
+2023-02-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,155,32,123456789012,4.6,12GB,5200
+2023-03-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,160,35,123456789012,4.6,12GB,5300
+2023-04-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,165,37,123456789012,4.7,12GB,5500
+2023-05-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,170,40,123456789012,4.7,12GB,5800
+2023-06-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,175,42,123456789012,4.8,12GB,6000
+2023-07-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,180,45,123456789012,4.8,12GB,6200
+2023-08-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,185,47,123456789012,4.9,12GB,6300
+2023-09-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,190,50,123456789012,4.9,12GB,6400
+2023-10-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,195,52,123456789012,4.9,12GB,6500
+2023-11-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,200,55,123456789012,5.0,12GB,6600
+2023-12-01,Apple Vision Pro,https://example.com/apple-vision-pro,Apple,2999,3299,9.1,205,58,123456789012,5.0,12GB,6700
